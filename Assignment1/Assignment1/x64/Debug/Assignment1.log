@@ -1,0 +1,14 @@
+﻿  compilation object save succeeded; see C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\color.cso
+  compilation object save succeeded; see C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\PS.cso
+  compilation object save succeeded; see C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\VS.cso
+  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  Week4-4-CylinderUsingFrameResources.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\Assignment1.exe

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\Assignment1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\color.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\17842\Downloads\DirectXTemplate-20250202T232321Z-001\Graphics\Assignment1\x64\Debug\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
